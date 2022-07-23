@@ -8,7 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://drp227.github.io/run-buddy/
+https://drp226.github.io/run-buddy/
 
 ## Contribution
 Made with ❤ by Daniel Palacios
